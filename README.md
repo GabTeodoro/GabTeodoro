@@ -1,5 +1,5 @@
 ### Oi! Eu sou o Gabriel! 👋
-
+<p>Eu sou o Gabriel Teodoro, tenho 21 anos e estou cursando o 8ª semestre em Ciências da Computação. Atualmente, possuo conhecimento amplo em Java e C#. Estudo Java há 3 anos e C# há 1 ano e 6 meses. <b>Seja bem-vido ao meu Github!</b></p>
 <div align="center">
   <a href="https://github.com/GabTeodoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabTeodoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
